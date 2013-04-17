@@ -1,7 +1,7 @@
 d	25	The White Stripes Under Blackpool Lights
 d	15	Requiem para um sonho
 d	15	Pequena Miss Sunshine
-d	15	O Homem que copiava
+d	10	O Homem que copiava
 d	15	Sideways
 d	20	Down From the Mountain
 d	15	Durval Discos
@@ -9,6 +9,44 @@ d	15	O Sexto Sentido
 d	15	Mera coincidência
 d	15	Vôo United 93
 d	15	Quero ser John Malkovich
-d	15	Jerry Maguire
+d	20	Jerry Maguire
 d	15	Forrest Gump
 d	15	Nacho Libre
+d	15	Ghost World
+d	15	Uma cilada para Roger Rabbit
+d	20	Bastidores da Comédia
+d	10	Era uma Vez na América
+d	20	Minha vida de cachorro
+d	20	Era uma vez no oeste
+d	15	O senhor das armas
+d	15	O show de Truman
+d	20	Querida Wendy
+d	15	Corpo fechado
+d	20	Ligeiramente grávidos
+d	15	12 homens e uma sentença
+d	15	Encontros e desencontros
+d	20	Dont look back
+d	25	No direction home
+d	20	Não estou lá
+d	25	Festival!
+d	25	Dylan speaks
+d	20	O grande Lebowski
+d	20	Spinal Tap
+d	15	Os Intocáveis
+d	15	Os Infiltrados
+d	15	O assassinato de um presidente
+d	45	Trilogia De volta para o futuro
+d	25	Houve uma vez dois verões
+d	15	Jackie Brown
+d	45	Trilogia Bourne
+d	20	Pulp Fiction
+d	20	Chumbo grosso
+d	30	Kill Bill 1 e 2
+d	20	E aí meu irmão, cadê você?
+d	25	Los Hermanos na Fundição Progresso
+d	25	Los Hermanos no Cine Íris
+d	20	Alta fidelidade
+d	25	Embriagado de amor
+d	20	O Virgem de 40 anos
+d	25	Magnólia
+d	25	Last Waltz
