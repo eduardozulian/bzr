@@ -50,3 +50,5 @@ d	25	Embriagado de amor
 d	20	O Virgem de 40 anos
 d	25	Magnólia
 d	25	Last Waltz
+d	20	Batman Begins
+d	20	O Cavaleiro das trevas
