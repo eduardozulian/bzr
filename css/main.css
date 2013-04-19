@@ -178,14 +178,13 @@ a:active {
 }
 
 .product__status {
-	background: rgba(127,175,27,.8);
+	background: #7faf1b;
 	color: #fff;
 	display: block;
 	font-size: 1.5rem;
-	margin-top: -1.5rem;
+	margin-top: -.75rem;
 	padding: 0 1em;
 	text-align: center;
-	-webkit-transform: rotate(-5deg);
 }
 
 .product--dvd.is-sold {
@@ -199,6 +198,29 @@ a:active {
 
 .product--dvd.is-sold .product__price {
 	display: none;
+}
+
+.product--dvd.is-sold .product__status {
+	background: rgba(127,175,27,.8);
+	-webkit-transform: rotate(-5deg);
+}
+
+.product--dvd.is-reserved {
+	background: rgba(127,175,27,.2);
+	border-color: rgba(127,175,27,.3);
+}
+
+.product--dvd.is-reserved .product__title span {
+	color: rgba(127,175,27,.4);
+}
+
+.product--dvd.is-reserved .product__price {
+	display: none;
+}
+
+.product--dvd.is-reserved .product__status {
+	background: rgba(127,175,27,.8);
+	-webkit-transform: rotate(2deg);
 }
 
 @media only screen and (min-width: 920px) {

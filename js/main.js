@@ -42,12 +42,18 @@ $(function() {
 				var s = status[j];
 				switch(s) {
 					case 's': product.sold = true; break;
+					case 'r': product.reserved = true; break;
 				}
 			}
 
 			if (product.sold) {
 				item.addClass( 'is-sold' );
 				item.append($('<span>Vendido &#10004;</span>').addClass('product__status'));
+			}
+
+			if (product.reserved) {
+				item.addClass( 'is-reserved' );
+				item.append($('<span>Reservado</span>').addClass('product__status'));
 			}
 
 			if (product.type)
