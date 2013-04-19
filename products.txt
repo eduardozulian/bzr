@@ -1,6 +1,5 @@
 d	25	The White Stripes Under Blackpool Lights
 d	15	Requiem para um sonho
-d	15	Pequena Miss Sunshine
 d	10	O Homem que copiava
 d	15	Sideways
 d	20	Down From the Mountain
@@ -16,7 +15,6 @@ d	15	Ghost World
 d	15	Uma cilada para Roger Rabbit
 d	20	Bastidores da Comédia
 d	10	Era uma Vez na América
-d	20	Minha vida de cachorro
 d	20	Era uma vez no oeste
 d	15	O senhor das armas
 d	15	O show de Truman
