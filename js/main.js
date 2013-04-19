@@ -1,7 +1,6 @@
 $(function() {
 	var productsList = $('.js-products-list'),
-	reverseList = false,
-	config = {};
+		config = {};
 
 	function printList(list) {
 		for (var i = 0, len = list.length; i < len; i++) {
@@ -22,7 +21,7 @@ $(function() {
 			var product = {};
 
 			var item = $('<li></li>').attr('id', 'product-' + n).addClass('product');
-				item.append($('<span></span>').addClass('product__price').text(price));
+				item.append($('<span><sup>' + unit + '</sup>' + price + '</span>').addClass('product__price'));
 				item.append($('<h2><span>' + title + '</span></h2>').addClass('product__title'));
 
 			switch(type) {
@@ -68,6 +67,7 @@ $(function() {
 
 		config = newConfig;
 		reverseList = config.reverseList;
+		unit = config.unit
 
 		loadProducts();
 	}

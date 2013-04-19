@@ -1,8 +1,7 @@
 $(function() {
 	bzr.start({
-
 		productsFile: "products.txt",
-		reverseList: false
-
+		reverseList: false,
+		unit: 'R$'
 	});
 });

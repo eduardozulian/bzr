@@ -12,6 +12,17 @@ body {
 	position: relative;
 }
 
+sup {
+	font-size: .5em;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+
+sup {
+	top: -.5em;
+}
+
 .cf:before,
 .cf:after {
     content: " ";
