@@ -5,17 +5,17 @@ s	d	15	Pequena Miss Sunshine
 r	d	15	Sideways
 	d	20	Down From the Mountain
 r	d	15	Durval Discos
-	d	15	O Sexto Sentido
+r	d	15	O Sexto Sentido
 	d	15	Mera coincidência
 	d	15	Vôo United 93
-	d	15	Quero ser John Malkovich
+r	d	15	Quero ser John Malkovich
 	d	20	Jerry Maguire
-	d	15	Forrest Gump
+r	d	15	Forrest Gump
 	d	15	Nacho Libre
 	d	15	Ghost World
 r	d	15	Uma cilada para Roger Rabbit
 	d	20	Bastidores da Comédia
-	d	10	Era uma Vez na América
+r	d	10	Era uma Vez na América
 s	d	20	Minha vida de cachorro
 r	d	20	Era uma vez no oeste
 	d	15	O senhor das armas
@@ -24,7 +24,7 @@ r	d	15	O show de Truman
 	d	15	Corpo fechado
 	d	20	Ligeiramente grávidos
 r	d	15	12 homens e uma sentença
-	d	15	Encontros e desencontros
+r	d	15	Encontros e desencontros
 r	d	20	Dont look back
 r	d	25	No direction home
 	d	20	Não estou lá
@@ -39,7 +39,7 @@ r	d	15	Os Intocáveis
 r	d	25	Houve uma vez dois verões
 	d	15	Jackie Brown
 	d	45	Trilogia Bourne
-	d	20	Pulp Fiction
+r	d	20	Pulp Fiction
 	d	20	Chumbo grosso
 	d	30	Kill Bill 1 e 2
 r	d	20	E aí meu irmão, cadê você?
