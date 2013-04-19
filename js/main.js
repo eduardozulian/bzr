@@ -2,7 +2,17 @@ $(function() {
 	var productsList = $('.js-products-list'),
 		config = {};
 
+	function shuffle(o) {
+	    for(var j, x, i = o.length; i; j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
+	    return o;
+	};
+
 	function printList(list) {
+
+		if( shuffleList ) {
+			list = shuffle(list);
+		}
+
 		for (var i = 0, len = list.length; i < len; i++) {
 			var data = list[i].split("\t");
 
@@ -35,11 +45,13 @@ $(function() {
 			if (product.obs)
 				item.append($('<span></span>').addClass('movie__obs').text(obs));
 
-			if( reverseList ) {
-				productsList.prepend(item);
-			} else {
-				productsList.append(item);
-			}
+			productsList.append(item);
+
+			// if( reverseList ) {
+			// 	productsList.prepend(item);
+			// } else {
+			// 	productsList.append(item);
+			// }
 
 		}
 	}
@@ -66,7 +78,7 @@ $(function() {
 	start: function(newConfig) {
 
 		config = newConfig;
-		reverseList = config.reverseList;
+		shuffleList = config.shuffleList;
 		unit = config.unit
 
 		loadProducts();
