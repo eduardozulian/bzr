@@ -15,16 +15,17 @@ $(function() {
 		for (var i = 0, len = list.length; i < len; i++) {
 			var data = list[i].split("\t");
 
-			if (data.length !== 3) {
+			if (data.length !== 4) {
 				console.log('Formato inválido na linha %s: %s', i, list[i]);
 				continue;
 			}
 
 			var n = i + 1;
 
-			var type  = data[0];
-				price = data[1];
-				title = data[2];
+			var status  = data[0];
+				type  = data[1];
+				price = data[2];
+				title = data[3];
 
 			var product = {};
 
@@ -35,6 +36,18 @@ $(function() {
 			switch(type) {
 				case 'd': product.type = 'dvd'; break;
 				case 'b': product.type = 'book'; break;
+			}
+
+			for (var j = 0, lenj = status.length; j < lenj; j++) {
+				var s = status[j];
+				switch(s) {
+					case 's': product.sold = true; break;
+				}
+			}
+
+			if (product.sold) {
+				item.addClass( 'is-sold' );
+				item.append($('<span>Vendido &#10004;</span>').addClass('product__status'));
 			}
 
 			if (product.type)
