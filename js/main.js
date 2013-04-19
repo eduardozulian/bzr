@@ -8,7 +8,6 @@ $(function() {
 	};
 
 	function printList(list) {
-
 		if( shuffleList ) {
 			list = shuffle(list);
 		}
@@ -26,7 +25,6 @@ $(function() {
 			var type  = data[0];
 				price = data[1];
 				title = data[2];
-				obs	  = data[3];
 
 			var product = {};
 
@@ -42,24 +40,13 @@ $(function() {
 			if (product.type)
 				item.addClass('product--' + product.type);
 
-			if (product.obs)
-				item.append($('<span></span>').addClass('movie__obs').text(obs));
-
 			productsList.append(item);
-
-			// if( reverseList ) {
-			// 	productsList.prepend(item);
-			// } else {
-			// 	productsList.append(item);
-			// }
-
 		}
 	}
 
 
   // Load product list from config.productsFile
   function loadProducts() {
-
   	$.ajax({
   		url: config.productsFile,
   		cache: false,
@@ -73,17 +60,12 @@ $(function() {
 
   // Global Flms class
   window.bzr = {
-
-	// Receive config and start app
 	start: function(newConfig) {
-
 		config = newConfig;
 		shuffleList = config.shuffleList;
 		unit = config.unit
 
 		loadProducts();
 	}
-
 };
-
 });
