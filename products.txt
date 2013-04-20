@@ -4,18 +4,18 @@ s	d	15	Pequena Miss Sunshine
 	d	10	O Homem que copiava
 r	d	15	Sideways
 	d	20	Down From the Mountain
-r	d	15	Durval Discos
-r	d	15	O Sexto Sentido
+s	d	15	Durval Discos
+s	d	15	O Sexto Sentido
 	d	15	Mera coincidência
 	d	15	Vôo United 93
-r	d	15	Quero ser John Malkovich
+s	d	15	Quero ser John Malkovich
 	d	20	Jerry Maguire
-r	d	15	Forrest Gump
+s	d	15	Forrest Gump
 	d	15	Nacho Libre
 	d	15	Ghost World
 r	d	15	Uma cilada para Roger Rabbit
 	d	20	Bastidores da Comédia
-r	d	10	Era uma Vez na América
+s	d	10	Era uma Vez na América
 s	d	20	Minha vida de cachorro
 r	d	20	Era uma vez no oeste
 	d	15	O senhor das armas
@@ -24,7 +24,7 @@ r	d	15	O show de Truman
 	d	15	Corpo fechado
 	d	20	Ligeiramente grávidos
 r	d	15	12 homens e uma sentença
-r	d	15	Encontros e desencontros
+s	d	15	Encontros e desencontros
 r	d	20	Dont look back
 r	d	25	No direction home
 	d	20	Não estou lá
@@ -32,19 +32,20 @@ r	d	25	No direction home
 	d	25	Dylan speaks
 r	d	20	O grande Lebowski
 	d	20	Spinal Tap
-r	d	15	Os Intocáveis
+s	d	15	Os Intocáveis
 	d	15	Os Infiltrados
 	d	15	O assassinato de um presidente
 	d	45	Trilogia De volta para o futuro
 r	d	25	Houve uma vez dois verões
 	d	15	Jackie Brown
 	d	45	Trilogia Bourne
-r	d	20	Pulp Fiction
+s	d	20	Pulp Fiction
 	d	20	Chumbo grosso
 	d	30	Kill Bill 1 e 2
 r	d	20	E aí meu irmão, cadê você?
 r	d	25	Los Hermanos na Fundição Progresso
 	d	25	Los Hermanos no Cine Íris
+	d	25	Los Hermanos Luau MTV
 	d	20	Alta fidelidade
 	d	25	Embriagado de amor
 	d	20	O Virgem de 40 anos

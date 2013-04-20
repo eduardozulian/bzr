@@ -48,7 +48,7 @@ $(function() {
 
 			if (product.sold) {
 				item.addClass( 'is-sold' );
-				item.append($('<span>Vendido &#10004;</span>').addClass('product__status'));
+				item.append($('<span>Vendido</span>').addClass('product__status'));
 			}
 
 			if (product.reserved) {
