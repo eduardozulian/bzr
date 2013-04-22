@@ -1,8 +1,8 @@
 r	d	25	The White Stripes Under Blackpool Lights
-r	d	15	Requiem para um sonho
+s	d	15	Requiem para um sonho
 s	d	15	Pequena Miss Sunshine
 	d	10	O Homem que copiava
-r	d	15	Sideways
+s	d	15	Sideways
 	d	20	Down From the Mountain
 s	d	15	Durval Discos
 s	d	15	O Sexto Sentido
@@ -13,30 +13,30 @@ s	d	15	Quero ser John Malkovich
 s	d	15	Forrest Gump
 	d	15	Nacho Libre
 	d	15	Ghost World
-r	d	15	Uma cilada para Roger Rabbit
+s	d	15	Uma cilada para Roger Rabbit
 	d	20	Bastidores da Comédia
 s	d	10	Era uma Vez na América
 s	d	20	Minha vida de cachorro
-r	d	20	Era uma vez no oeste
+s	d	20	Era uma vez no oeste
 	d	15	O senhor das armas
-r	d	15	O show de Truman
+s	d	15	O show de Truman
 	d	20	Querida Wendy
 	d	15	Corpo fechado
 	d	20	Ligeiramente grávidos
-r	d	15	12 homens e uma sentença
+s	d	15	12 homens e uma sentença
 s	d	15	Encontros e desencontros
 r	d	20	Dont look back
-r	d	25	No direction home
+s	d	25	No direction home
 	d	20	Não estou lá
 	d	25	Festival!
 	d	25	Dylan speaks
-r	d	20	O grande Lebowski
+s	d	20	O grande Lebowski
 	d	20	Spinal Tap
 s	d	15	Os Intocáveis
 	d	15	Os Infiltrados
 	d	15	O assassinato de um presidente
 	d	45	Trilogia De volta para o futuro
-r	d	25	Houve uma vez dois verões
+s	d	25	Houve uma vez dois verões
 	d	15	Jackie Brown
 	d	45	Trilogia Bourne
 s	d	20	Pulp Fiction
@@ -49,7 +49,7 @@ r	d	25	Los Hermanos na Fundição Progresso
 	d	20	Alta fidelidade
 	d	25	Embriagado de amor
 	d	20	O Virgem de 40 anos
-r	d	25	Magnólia
+s	d	25	Magnólia
 r	d	25	Last Waltz
 	d	20	Batman Begins
 	d	20	O Cavaleiro das trevas
