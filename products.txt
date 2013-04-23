@@ -29,9 +29,9 @@ r	d	20	Dont look back
 s	d	25	No direction home
 	d	20	Não estou lá
 	d	25	Festival!
-	d	25	Dylan speaks
+s	d	25	Dylan speaks
 s	d	20	O grande Lebowski
-	d	20	Spinal Tap
+s	d	20	Spinal Tap
 s	d	15	Os Intocáveis
 	d	15	Os Infiltrados
 	d	15	O assassinato de um presidente
