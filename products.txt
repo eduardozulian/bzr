@@ -53,3 +53,8 @@ s	d	25	Magnólia
 r	d	25	Last Waltz
 	d	20	Batman Begins
 	d	20	O Cavaleiro das trevas
+	d	15	Eterno amor
+	d	20	Ed Wood
+	d	15	O último rei da Escócia
+	d	20	Fahrenheit 451
+	d	15	Benjamim
