@@ -12,7 +12,7 @@ s	d	15	Quero ser John Malkovich
 	d	20	Jerry Maguire
 s	d	15	Forrest Gump
 	d	15	Nacho Libre
-	d	15	Ghost World
+s	d	15	Ghost World
 s	d	15	Uma cilada para Roger Rabbit
 	d	20	Bastidores da Comédia
 s	d	10	Era uma Vez na América
