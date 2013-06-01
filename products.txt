@@ -27,7 +27,7 @@ s	d	15	12 homens e uma sentença
 s	d	15	Encontros e desencontros
 r	d	20	Dont look back
 s	d	25	No direction home
-	d	20	Não estou lá
+r	d	20	Não estou lá
 	d	25	Festival!
 s	d	25	Dylan speaks
 s	d	20	O grande Lebowski
