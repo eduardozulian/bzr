@@ -1,9 +1,9 @@
-r	d	25	The White Stripes Under Blackpool Lights
+s	d	25	The White Stripes Under Blackpool Lights
 s	d	15	Requiem para um sonho
 s	d	15	Pequena Miss Sunshine
 	d	10	O Homem que copiava
 s	d	15	Sideways
-	d	20	Down From the Mountain
+s	d	20	Down From the Mountain
 s	d	15	Durval Discos
 s	d	15	O Sexto Sentido
 	d	15	Mera coincidência
@@ -25,9 +25,9 @@ s	d	15	O show de Truman
 	d	20	Ligeiramente grávidos
 s	d	15	12 homens e uma sentença
 s	d	15	Encontros e desencontros
-r	d	20	Dont look back
+s	d	20	Dont look back
 s	d	25	No direction home
-r	d	20	Não estou lá
+s	d	20	Não estou lá
 	d	25	Festival!
 s	d	25	Dylan speaks
 s	d	20	O grande Lebowski
@@ -42,15 +42,15 @@ s	d	25	Houve uma vez dois verões
 s	d	20	Pulp Fiction
 	d	20	Chumbo grosso
 	d	30	Kill Bill 1 e 2
-r	d	20	E aí meu irmão, cadê você?
-r	d	25	Los Hermanos na Fundição Progresso
+s	d	20	E aí meu irmão, cadê você?
+s	d	25	Los Hermanos na Fundição Progresso
 	d	25	Los Hermanos no Cine Íris
 	d	25	Los Hermanos Luau MTV
 	d	20	Alta fidelidade
 	d	25	Embriagado de amor
 	d	20	O Virgem de 40 anos
 s	d	25	Magnólia
-r	d	25	Last Waltz
+s	d	25	Last Waltz
 	d	20	Batman Begins
 	d	20	O Cavaleiro das trevas
 	d	15	Eterno amor
