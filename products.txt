@@ -44,7 +44,7 @@ s	d	20	Pulp Fiction
 	d	30	Kill Bill 1 e 2
 s	d	20	E aí meu irmão, cadê você?
 s	d	25	Los Hermanos na Fundição Progresso
-	d	25	Los Hermanos no Cine Íris
+s	d	25	Los Hermanos no Cine Íris
 	d	25	Los Hermanos Luau MTV
 	d	20	Alta fidelidade
 	d	25	Embriagado de amor
