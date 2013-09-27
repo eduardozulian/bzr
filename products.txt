@@ -20,7 +20,7 @@ s	d	20	Minha vida de cachorro
 s	d	20	Era uma vez no oeste
 	d	15	O senhor das armas
 s	d	15	O show de Truman
-	d	20	Querida Wendy
+s	d	20	Querida Wendy
 	d	15	Corpo fechado
 	d	20	Ligeiramente grávidos
 s	d	15	12 homens e uma sentença
